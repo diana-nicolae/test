@@ -66,8 +66,8 @@ public class AssuranceAuto
         try{
             Double.parseDouble(chaine);}
         catch (NumberFormatException e){
-            return true;}
-        return false; 
+            return false;}
+        return true; 
         // en utilisant une boucle qui verifie si il y a des chiffres et une virgule caractere par caractere le programme compile mais ne fonctionne pas.
     }
 
