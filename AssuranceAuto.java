@@ -8,6 +8,8 @@
  */
 public class AssuranceAuto
 {
+	//un commentaire pertinent
+
     final static String QUES_SEXE = "Quel est votre sexe? (h/f)";
     final static String QUES_AGE = "Quel est votre age?";
     final static String QUES_ACHAT = "Quelle est la valeur d'achat de votre v�hicule?";
