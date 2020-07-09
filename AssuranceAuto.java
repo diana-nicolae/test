@@ -202,6 +202,7 @@ public class AssuranceAuto
             a = Clavier.lireString();
 
             if (!a.equalsIgnoreCase("oui")&&!a.equalsIgnoreCase("non")){
+                //un commentaire
 
                 System.out.println(ERREUR3);}
 
