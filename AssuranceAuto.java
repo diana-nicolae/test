@@ -178,6 +178,7 @@ public class AssuranceAuto
                 b=Integer.parseInt(a);
             }else{
                 System.out.println(ERREUR);
+                //commentaire 2
 
             }
 
